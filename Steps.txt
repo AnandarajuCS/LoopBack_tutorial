@@ -1,0 +1,4 @@
+1. install node.js, loopback-cli and strongloop
+2. > lb 
+    - for creating a new application -> create a name for the application and have choosed 'empty server' option
+3.
